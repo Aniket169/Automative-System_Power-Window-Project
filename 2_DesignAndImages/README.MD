@@ -1,1 +1,1 @@
-(https://user-images.githubusercontent.com/94118726/152572764-1a2cd05d-cd64-408f-aba3-b6e4778f891e.png)
+![Window Control UML Diagram](https://user-images.githubusercontent.com/94520197/152573436-787fd794-2e91-4c14-a57b-bde829f781c2.png)
