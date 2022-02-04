@@ -2,7 +2,7 @@
 ## Introduction
 The windows on cars which can be opened or shut with the help of buttons, are called power windows. Power windows were first introduced by Ford Motors in 1941. The first cars to get the power windows were the Lincoln Custom and the Packard Custom Super 180. Power windows have replaced the traditional manual handles. It can be a built-in feature or installed in cars, using aftermarket accessories.
 
-![images](https://user-images.githubusercontent.com/94475720/150639521-4aa0267e-7e65-479c-ab85-cbbaab0d5145.jpg)
+![Power-Window-Switches](https://user-images.githubusercontent.com/94520197/152574350-b20b7b15-66fb-412a-85e3-6ab133930e09.jpg)
 
 ## 4W's and 1H
 *What:* Power windows are automobile windows which can be raised and lowered by pressing a button or switch, as opposed to using a crank handle.
