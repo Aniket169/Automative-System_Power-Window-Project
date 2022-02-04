@@ -32,3 +32,5 @@ The windows on cars which can be opened or shut with the help of buttons, are ca
 | LLR_1 | The power window go all the way down by just tapping the button once. (Automatic down)|
 | LLR_2 | The power windows will go all the way up like the automatic down.(Automatic Up) |
 | LLR_3 | When the door is locked the windows will close automatically. |
+| LLR_4 | The control unit of the power window senses both high and low load obstructions. (Automatic down)|
+| LLR_5 | The system design meets these performance requirements. |
